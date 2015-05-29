@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Interpolacao.Lagrange.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Interpolacao.Lagrange.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Fracao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Fracao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\obj\Debug\Interpolacao.Lagrange.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\obj\Debug\Interpolacao.Lagrange.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\obj\Debug\Interpolacao.Lagrange.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Interpolacao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao.Lagrange\bin\Debug\Interpolacao.pdb

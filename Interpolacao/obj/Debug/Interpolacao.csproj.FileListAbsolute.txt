@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\bin\Debug\Interpolacao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\bin\Debug\Interpolacao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\bin\Debug\Fracao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\bin\Debug\Fracao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\obj\Debug\Interpolacao.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\obj\Debug\Interpolacao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Interpolacao\obj\Debug\Interpolacao.pdb

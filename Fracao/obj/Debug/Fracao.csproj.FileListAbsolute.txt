@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\Projects\MetodosQuantitativos\Fracao\bin\Debug\Fracao.dll
+c:\users\user\documents\visual studio 2010\Projects\MetodosQuantitativos\Fracao\bin\Debug\Fracao.pdb
+c:\users\user\documents\visual studio 2010\Projects\MetodosQuantitativos\Fracao\obj\Debug\Fracao.dll
+c:\users\user\documents\visual studio 2010\Projects\MetodosQuantitativos\Fracao\obj\Debug\Fracao.pdb

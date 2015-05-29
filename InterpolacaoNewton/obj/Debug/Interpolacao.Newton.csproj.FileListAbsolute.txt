@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\InterpolacaoNewton.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\InterpolacaoNewton.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\obj\Debug\InterpolacaoNewton.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\obj\Debug\InterpolacaoNewton.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Fracao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Interpolacao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Interpolacao.Lagrange.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Fracao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Interpolacao.Lagrange.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\bin\Debug\Interpolacao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\InterpolacaoNewton\obj\Debug\Interpolacao.Newton.csprojResolveAssemblyReference.cache

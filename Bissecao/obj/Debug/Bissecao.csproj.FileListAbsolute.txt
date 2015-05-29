@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\bin\Debug\Bissecao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\bin\Debug\Bissecao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\bin\Debug\Fracao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\bin\Debug\Fracao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\obj\Debug\Bissecao.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\obj\Debug\Bissecao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Bissecao\obj\Debug\Bissecao.pdb

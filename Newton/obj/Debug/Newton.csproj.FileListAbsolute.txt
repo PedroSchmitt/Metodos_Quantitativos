@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\bin\Debug\Newton.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\bin\Debug\Newton.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\bin\Debug\Fracao.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\bin\Debug\Fracao.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\obj\Debug\Newton.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\obj\Debug\Newton.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MetodosQuantitativos\Newton\obj\Debug\Newton.csprojResolveAssemblyReference.cache
